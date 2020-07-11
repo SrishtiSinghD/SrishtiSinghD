@@ -1,5 +1,11 @@
-## Hi there 👋 I am Srishti Singh
-### I believe in learning anything the FeYmAnN WaY :eye_speech_bubble:
+<div>
+  <p align="center" > 
+    <strong> Hi there 👋 I am <mark>Srishti Singh</mark></strong> <img src="1594471327783.jpeg" width="256" title="Github Logo" align = "right"> 
+    <br> I am an AI and ML Enthusiast
+    <br> <strong> I believe in learning anything the FeYmAnN WaY :eye_speech_bubble: </strong> 
+  </p>
+</div>
+
 
 <!--
 **SrishtiSinghD/SrishtiSinghD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
