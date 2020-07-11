@@ -1,6 +1,6 @@
 <div>
   <p align="center" > 
-    <strong> Hi there 👋 I am <mark>Srishti Singh</mark></strong> <img src="1594471327783.jpeg" width="256" title="Github Logo" align = "right"> 
+    <strong> Hi there 👋 I am <mark>Srishti Singh</mark></strong> <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/1594471327783.jpeg" width="256" title="Avatoon" align = "right"> 
     <br> I am an AI and ML Enthusiast
     <br> <strong> I believe in learning anything the FeYmAnN WaY :eye_speech_bubble: </strong> 
   </p>
