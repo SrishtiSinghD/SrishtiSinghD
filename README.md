@@ -1,8 +1,8 @@
 <div>
   <p align="center"> 
     <strong> Hi there 👋 I am <mark>Srishti Singh</mark></strong> <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/1594471327783.jpeg" width="256" title="Avatoon" align = "right"> 
-    <br> <strong> 🌱 I’m currently learning Machine Learning :woman_student: and brushing up my basics. </strong>
-    <br> <strong> I believe in learning anything the FeYmAnN WaY :eye_speech_bubble: </strong> 
+    <br> <strong> 🌱 I’m currently learning :woman_student: Machine Learning :eye_speech_bubble: and brushing up my basics. </strong>
+    <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
   </p>
 </div>
 
