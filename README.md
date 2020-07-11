@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Srishti Singh
-### I believe in learning AI and ML the FeYmAnN WaY
+### I believe in learning anything the FeYmAnN WaY :eye_speech_bubble:
 
 <!--
 **SrishtiSinghD/SrishtiSinghD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
