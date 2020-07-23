@@ -16,14 +16,14 @@
 <br>
 
 <p align="center">  
-  <h2 align="center">
+  <h3 align="center">
     <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
     <img src="https://media.giphy.com/media/5xaOcLBK3ktpfSfLcVa/giphy.gif" width="50px">
     <img src="https://media.giphy.com/media/QoUU3x1dH505y/giphy.gif" width="50px">
     <img src="https://media.giphy.com/media/5xaOcLKkLxxVUCeUZ4Q/giphy.gif" width="50px">
     <img src="https://media.giphy.com/media/KI9S4tfLdMaK4/giphy.gif" width="50px">
     <img src="https://media.giphy.com/media/TlK63Er5sVKVBLMQVMY/giphy.gif" width="50px">
-</h2>
+</h3>
   <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="100px"></p>
     <p align="center">
       <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
