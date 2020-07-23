@@ -12,7 +12,7 @@
 <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" width="180px">
 </div>
 
-<div>
+<div align="left">
 <p align="center">  
   <h3 align="center">
     <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
