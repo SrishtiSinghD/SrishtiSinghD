@@ -10,7 +10,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats"> 
   <p align="right">  
-    <h3 align="center"> <strong>Knows</strong> </h3>
+    <h1 align="center"> <strong>Knows</strong> </h1>
     <p align="center"><img src="https://media.giphy.com/media/ozdUAW4iETQS2OggkO/giphy.gif" width="50px"></p>
     <p align="center">
       <code><a href="https://www.python.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
