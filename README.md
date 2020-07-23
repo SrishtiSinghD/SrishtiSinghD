@@ -5,7 +5,7 @@
     <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
   </h1>
 </div>
-<br><br><br><br><br><br>
+<br>
 
 <div>
   <div align="right">
