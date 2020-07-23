@@ -22,7 +22,9 @@
   </p>
 </div>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats">
+</p> 
 
 
 ⭐️ From [@Srishti](https://github.com/SrishtiSinghD)
