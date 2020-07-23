@@ -12,7 +12,7 @@
 </p>
   
 <p align="center">
-  <img src="https://media.giphy.com/media/W5IvTWt1Njkk1Ld8Wd/giphy.gif" width="90px">
+  <img src="https://media.giphy.com/media/W5IvTWt1Njkk1Ld8Wd/giphy.gif" width="50px">
 </p>
 </div>
 
