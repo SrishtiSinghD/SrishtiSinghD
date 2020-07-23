@@ -19,7 +19,7 @@
         <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
         <img src="https://media.giphy.com/media/5xaOcLBK3ktpfSfLcVa/giphy.gif" width="50px">
         <img src="https://media.giphy.com/media/QoUU3x1dH505y/giphy.gif" width="50px">
-        <img src="https://media.giphy.com/media/5xaOcLKkLxxVUCeUZ4Q/giphy.gif" width="50px">
+        <img src="https://media.giphy.com/media/LncsBVKWzRKRpzEdMw/giphy.gif" width="50px">
         <img src="https://media.giphy.com/media/KI9S4tfLdMaK4/giphy.gif" width="50px">
         <img src="https://media.giphy.com/media/TlK63Er5sVKVBLMQVMY/giphy.gif" width="50px">
       </h3>
@@ -46,13 +46,16 @@
 </p></div>
 <br>
 
+---
+<h3 align="center">THRIVING TO GET BIGGER, BETTER & STRONGER EVERYDAY</h3>
+<!-- For making transition -->
+<p align="center">
+<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="300px">
+<img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="150px">
+<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="420px"></p>
 
-<!-- For making transition
-<p>
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="200px">
-<img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="100px">
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="360px"></p>
--->
+---
+
 ## ⭐️ From [@Srishti](https://github.com/SrishtiSinghD) 
 <h3 align="right">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
 <!--
