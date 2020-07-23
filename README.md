@@ -7,7 +7,12 @@
 </div>
 <br><br><br><br><br><br>
 
+<div>
+ <div align="right">
 <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" width="180px">
+</div>
+
+<div>
 <p align="center">  
   <h3 align="center">
     <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
@@ -28,6 +33,9 @@
   <code><a href="" target="_blank"><img height="45" src="https://seeklogo.com/images/C/c-logo-672525892C-seeklogo.com.png"></a></code>
     </p>
  </p>
+ </div>
+ 
+ </div>
   
 <br><br><br>
 
