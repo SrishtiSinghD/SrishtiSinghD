@@ -26,9 +26,9 @@
   
 <br><br><br>
 <p>
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="400px">
+<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="360px">
 <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="100px">
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="100px"></p>
+<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="200px"></p>
 ⭐️ From [@Srishti](https://github.com/SrishtiSinghD)
 <!--
 **SrishtiSinghD/SrishtiSinghD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
