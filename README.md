@@ -1,7 +1,7 @@
 <div>
   <h3 align="center"> 
     <strong> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am <mark>Srishti Singh</mark></strong> <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="256" title="Avatoon" align = "right"> 
-    <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="36px"> Machine Learning :eye_speech_bubble: and brushing up my basics. </strong>
+    <br> <strong> I’m currently learning <img src="https://media.giphy.com/media/3ohc1axM00ocu2K8gg/giphy.gif" width="45px"> Machine Learning :eye_speech_bubble: and brushing up my basics. </strong>
     <br> <strong> I believe in learning anything the FeYmAnN WaY :writing_hand: :arrows_counterclockwise: :woman_teacher:</strong> 
   </h3>
 </div>
