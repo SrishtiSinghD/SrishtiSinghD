@@ -7,14 +7,6 @@
 </div>
 <br><br><br><br><br><br>
 
-<div>
-<p align="left">
-  <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" width="260px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats"> 
-  <img align="center" src="https://media.giphy.com/media/H7YO03BHmBMWuWUkez/giphy.gif" width="240px">
-</p></div>
-<br>
-
 <p align="center">  
   <h3 align="center">
     <img src="https://media.giphy.com/media/DS89v1NqpzCqA/giphy.gif" width="90px">
@@ -36,6 +28,16 @@
  </p>
   
 <br><br><br>
+
+<div>
+<p align="left">
+  <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" width="260px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats"> 
+  <img align="center" src="https://media.giphy.com/media/H7YO03BHmBMWuWUkez/giphy.gif" width="240px">
+</p></div>
+<br>
+
+
 <!-- For making transition
 <p>
 <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="200px">
