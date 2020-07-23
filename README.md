@@ -8,8 +8,8 @@
 <br><br><br><br>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats"> </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats"> 
 
 <p align="right">  
 <p align="center"> <strong>Knows</strong> </p>
@@ -20,7 +20,7 @@
     <code><a href="https://jupyter.org/" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
   </p>
 </div>
-
+</p>
 
 
 ⭐️ From [@Srishti](https://github.com/SrishtiSinghD)
