@@ -7,6 +7,9 @@
 </div>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7)
+
+
+⭐️ From [@Srishti](https://github.com/SrishtiSinghD)
 <!--
 **SrishtiSinghD/SrishtiSinghD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
