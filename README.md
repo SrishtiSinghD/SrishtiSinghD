@@ -53,7 +53,7 @@
 <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="100px">
 <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="360px"></p>
 -->
-⭐️ From [@Srishti](https://github.com/SrishtiSinghD)
+## ⭐️ From [@Srishti](https://github.com/SrishtiSinghD) <h3 align="right">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
 <!--
 **SrishtiSinghD/SrishtiSinghD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
