@@ -37,6 +37,12 @@
  </div>
   
 ---
+<div align ="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SrishtiSinghD&row=1&no-frame=true" > 
+ 
+</div>
+---
 
 <div>
 <p align="left">
